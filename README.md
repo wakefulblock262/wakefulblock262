@@ -15,5 +15,5 @@
 
 ## 🔗 Connect with Me
 - 👾 Roblox: [WakefulBlock262](I'll get the link later)
-- 🎮 GitHub: [YourUsername](https://github.com/wakefulblock262)
+- 🎮 GitHub: [wakefulblock262](https://github.com/wakefulblock262)
 - 💬 Discord: wakefulblock262
