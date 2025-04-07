@@ -8,7 +8,7 @@
 ## ⚙ Tech Stack
 - **Languages**: TypeScript, HTML, CSS, Lua/Laua
 - **Game Engines**: Roblox Studio
-- **Tools**: VS Code, Git, Codespaces
+- **Tools**: VS Code, Git, Electron, React, 
 
 ## 🌟 Featured Projects
 - ⚛ Developing innovative **game mechanics and systems**.
