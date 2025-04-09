@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 - 🎮 Passionate about game development, especially on **Roblox**.
-- 🔧 Skilled in **C#**, **Lua/Luau**, and transitioning into **C languages** for app development.
+- 🔧 Skilled in **TypeScript**, **Lua/Luau**
 - 🤖 Interested in ethical hacking.
 
 ## ⚙ Tech Stack
