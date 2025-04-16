@@ -6,7 +6,7 @@
 - 🤖 Interested in ethical hacking.
 
 ## ⚙ Tech Stack
-- **Languages**: TypeScript, HTML, CSS, Lua/Luau
+- **Languages**: TypeScript, Lua/Luau
 - **Game Engines**: Roblox Studio
 - **Tools**: VS Code, Git, Electron, React
 
