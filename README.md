@@ -11,7 +11,7 @@
 - **Tools**: VS Code, Git, Electron, React, 
 
 ## 🌟 Featured Projects
-- ⚛ Developing innovative **game mechanics and systems**.
+- ⚛ Wakeful's Universal Hub for Roblox.
 
 ## 🔗 Connect with Me
 - 👾 Roblox: [WakefulBlock262](I'll get the link later)
