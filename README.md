@@ -8,7 +8,7 @@
 ## ⚙ Tech Stack
 - **Languages**: TypeScript, HTML, CSS, Lua/Laua
 - **Game Engines**: Roblox Studio
-- **Tools**: VS Code, Git, Electron, React, 
+- **Tools**: VS Code, Git, Electron, React
 
 ## 🌟 Featured Projects
 - ⚛ Wakeful's Universal Hub for Roblox.
