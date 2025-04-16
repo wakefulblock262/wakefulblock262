@@ -14,6 +14,6 @@
 - ⚛ Wakeful's Universal Hub for Roblox.
 
 ## 🔗 Connect with Me
-- 👾 Roblox: [WakefulBlock262](I'll get the link later)
-- 🎮 GitHub: [wakefulblock262](https://github.com/wakefulblock262)
-- 💬 Discord: wakefulblock262
+- 👾 **Roblox**: [WakefulBlock262](I'll get the link later)
+- 🎮 **GitHub**: [wakefulblock262](https://github.com/wakefulblock262)
+- 💬 **Discord**: wakefulblock262
