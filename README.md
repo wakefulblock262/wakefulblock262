@@ -17,5 +17,3 @@
 - 👾 Roblox: [WakefulBlock262](I'll get the link later)
 - 🎮 GitHub: [wakefulblock262](https://github.com/wakefulblock262)
 - 💬 Discord: wakefulblock262
-
-https://discord.com/api/guilds/1361993767539703931/widget.json
