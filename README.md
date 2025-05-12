@@ -19,8 +19,8 @@
 
 ### connect -
 
-    roblox: wakefulblock262(https://www.roblox.com/users/320666679/profile)
+    roblox: wakefulblock262
 
-    github: wakefulblock262(https://github.com/wakefulblock262)
+    github: wakefulblock262
 
     discord: wakefulblock262
