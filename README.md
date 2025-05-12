@@ -1,7 +1,7 @@
 # about me
 
 ### game/exploit dev on roblox, mainly.
-### into hacking stuff
+### i like hacking stuff
 
 ---
 
