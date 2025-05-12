@@ -1,4 +1,3 @@
-# hey, i'm wakefulblock262
 # about me
 
 ### game/exploit dev on roblox, mainly.
