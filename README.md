@@ -16,7 +16,7 @@
 
 ### projects -
 
-    wakeful's universal hub — roblox script hub with some cool features
+    NyxionOS, under Nyxion Dynamics
 
 ### connect -
 
