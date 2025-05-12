@@ -1,19 +1,27 @@
-# Hi there, I'm WakefulBlock262!
+hey, i'm wakefulblock262
+about me
 
-## 💡 About Me
-- 🎮 Passionate about game development, especially on **Roblox**.
-- 🔧 Skilled in **TypeScript**, **Lua/Luau**
-- 🤖 Interested in ethical hacking.
+game/exploit dev on roblox, mainly.
+into hacking stuff
 
-## ⚙ Tech Stack
-- **Languages**: TypeScript, Lua/Luau
-- **Game Engines**: Roblox Studio
-- **Tools**: VS Code, Git, Electron, React
+---
 
-## 🌟 Featured Projects
-- ⚛ Wakeful's Universal Hub for Roblox.
+what i use -
 
-## 🔗 Connect with Me
-- 👾 **Roblox**: [WakefulBlock262](I'll get the link later)
-- 🎮 **GitHub**: [wakefulblock262](https://github.com/wakefulblock262)
-- 💬 **Discord**: wakefulblock262
+    languages: Lua/Luau and TypeScript
+
+    engines: Roblox Studio
+
+    tools: Visual Studio Code, Velocity IDE, Git, Electron
+
+projects -
+
+    wakeful's universal hub — roblox script hub with some cool features
+
+connect -
+
+    roblox: wakefulblock262(https://www.roblox.com/users/320666679/profile)
+
+    github: wakefulblock262(https://github.com/wakefulblock262)
+
+    discord: wakefulblock262
