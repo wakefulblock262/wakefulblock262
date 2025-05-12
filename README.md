@@ -1,12 +1,12 @@
-hey, i'm wakefulblock262
-about me
+# hey, i'm wakefulblock262
+## about me
 
-game/exploit dev on roblox, mainly.
-into hacking stuff
+### game/exploit dev on roblox, mainly.
+### into hacking stuff
 
 ---
 
-what i use -
+### what i use -
 
     languages: Lua/Luau and TypeScript
 
@@ -14,11 +14,11 @@ what i use -
 
     tools: Visual Studio Code, Velocity IDE, Git, Electron
 
-projects -
+### projects -
 
     wakeful's universal hub — roblox script hub with some cool features
 
-connect -
+### connect -
 
     roblox: wakefulblock262(https://www.roblox.com/users/320666679/profile)
 
