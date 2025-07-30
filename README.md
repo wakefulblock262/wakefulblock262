@@ -1,26 +1,26 @@
-# about me
+# About Me
 
-### game/exploit dev on roblox, mainly.
-### i like hacking stuff
+### Game/Exploit Developer
+### I like hacking stuff
 
 ---
 
-### what i use -
+### Tech Stack -
 
-    languages: Lua/Luau and TypeScript
+    Languages: Lua/Luau, TypeScript, Swift, Objective-C
 
-    engines: Roblox Studio
+    Engines: Roblox Studio
 
-    tools: Visual Studio Code, Velocity IDE, Git, Electron
+    Tools: Visual Studio Code, Velocity IDE, Git, Electron, Xcode, xtools
 
-### projects -
+    Other Tools: After Effects, Photoshop, Premiere
 
-    NyxionOS, under Nyxion Dynamics
+### Projects -
 
-### connect -
+### Connect -
 
-    roblox: wakefulblock262
+    Roblox: wakefulblock262
 
-    github: wakefulblock262
+    GitHub: wakefulblock262
 
-    discord: wakefulblock262
+    Discord: evrett.k
