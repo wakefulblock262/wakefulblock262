@@ -11,9 +11,9 @@
 
     Engines: Roblox Studio
 
-    Tools: Visual Studio Code, Velocity IDE, Git, Electron, Xcode, xtools
+    Tools: Visual Studio Code, Velocity IDE, Git, Electron, Xcode, xtools, Theos/Orion
 
-    Other Tools: After Effects, Photoshop, Premiere
+    Other Tools: After Effects, Photoshop
 
 ### Projects -
 
