@@ -5,15 +5,9 @@
 
 ---
 
-### Tech Stack -
+### Stuff -
 
     Languages: Lua/Luau, TypeScript, Swift, Objective-C
-
-    Engines: Roblox Studio
-
-    Tools: Visual Studio Code, Velocity IDE, Git, Electron, Xcode, xtools, Theos/Orion
-
-    Other Tools: After Effects, Photoshop
 
 ### Projects -
 
