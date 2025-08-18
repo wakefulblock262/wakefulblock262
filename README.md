@@ -1,6 +1,6 @@
 # About Me
 
-### Game/Exploit Developer
+### Software/Exploit Developer
 ### I like hacking stuff
 
 ---
