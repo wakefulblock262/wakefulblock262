@@ -16,7 +16,7 @@ I’m a developer and hacker at heart, making modular Roblox scripts, creating i
 
 <div align="left">
   <a href="https://github.com/wakefulblock262">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wakefulblock262&show_icons=true&locale=en&layout=compact" alt="wakefulblock262"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wakefulblock262&show_icons=true&locale=en&layout=compact&theme=dark" alt="wakefulblock262"/>
   </a>
 </div>
 
