@@ -20,7 +20,6 @@ I’m a developer and hacker at heart, making modular Roblox scripts, creating i
   </a>
 </div>
 
-<h3 align="left">Socials</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Discord:</td>
