@@ -2,8 +2,7 @@
 
 ### Hello World, I'm Everett Kamulda
 
-I’m a developer and hacker at heart, making modular Roblox scripts, creating iOs tweaks, and tools that help with everyday life. I love to code, build front-ends, experimenting with systems, and pushing projects to the next level. Always learning, always coding, always creating. 
-
+I’m a developer and exploiter for iOS and other iDevices
 
 🔭 I’m currently working on a tweaks for iOS using Theos/Orion for iOS 12.5.7, and moving on to iOS 16 soon
 
