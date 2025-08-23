@@ -26,7 +26,7 @@ I’m a developer and exploiter for iOS and other iDevices
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Discord Alt:</td>
-        <td>@solix.net</td>
+        <td>@evrett.k</td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Twitter</td>
