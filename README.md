@@ -10,7 +10,7 @@ I’m a developer and exploiter for iOS and other iDevices
 
 <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=swift,c,lua,cpp,cs,net,python,nodejs"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=rust,swift,c,lua,cpp,cs,net,python,ts"/></td>
 </tr>
 
 <div align="left">
