@@ -2,11 +2,7 @@
 
 ### Hello World, I'm Everett Kamulda
 
-I’m a developer and exploiter for iOS and other iDevices
-
-🔭 I’m currently working on a tweaks for iOS using Theos/Orion for iOS 12.5.7, and moving on to iOS 16 soon
-
-🌱 I’m currently learning Python to explore advanced scripting
+I’m a developer and exploiter
 
 <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"></td>
