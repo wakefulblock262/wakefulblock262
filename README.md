@@ -1,13 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello World, I'm Everett Kamulda
-
-I’m a developer and exploiter
-
-<tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=rust,swift,c,lua,cpp,cs,net,python,ts"/></td>
-</tr>
+Hi! My name's Everett, not much more to say than that. 
 
 <div align="left">
   <a href="https://github.com/wakefulblock262">
