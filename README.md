@@ -2,11 +2,6 @@
 
 Hi! My name's Everett, not much more to say than that. 
 
-<div align="left">
-  <a href="https://github.com/wakefulblock262">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wakefulblock262&show_icons=true&locale=en&layout=compact&theme=dark" alt="wakefulblock262"/>
-  </a>
-</div>
 
 <table>
     <tr>
