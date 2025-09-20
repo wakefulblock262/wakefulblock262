@@ -1,3 +1,1 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-Hi! My name's Everett, not much more to say than that. 
+Hi! My name's Everett and I'm 14, not much more to say than that. 
