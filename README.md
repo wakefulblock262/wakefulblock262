@@ -1,1 +1,1 @@
-Hi! My name's Everett and I'm 15, not much more to say than that. 
+hi! i got by evrett.k and im 15, not much more to say than that. 
